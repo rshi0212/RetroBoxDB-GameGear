@@ -1,0 +1,14 @@
+{
+ "db": "GameGear",
+ "ok": true,
+ "seconds": 18,
+ "integrity_check": [
+  "ok"
+ ],
+ "foreign_key_errors": [],
+ "objects_checked": 934,
+ "archive_plans_checked": 1306,
+ "compression_groups_checked": 2,
+ "historical_zip_objects": 1306,
+ "errors": []
+}

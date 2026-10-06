@@ -1,0 +1,48 @@
+{
+  "snapshot_id": 1,
+  "console_id": 15,
+  "fetched_at": "2026-10-06T14:24:36.508215+00:00",
+  "ra_games_with_achievements": 167,
+  "status_totals": {
+    "local": 165,
+    "local_other_platform": 0,
+    "dat_only": 0,
+    "nointro_db_only": 0,
+    "unmatched": 2
+  },
+  "by_category": {
+    "Official": {
+      "local": 155
+    },
+    "Prototype": {
+      "local": 3
+    },
+    "Homebrew": {
+      "local": 7,
+      "unmatched": 1
+    },
+    "Hack/Demo": {
+      "unmatched": 1
+    }
+  },
+  "sibling_databases": [],
+  "shared_console_scope": false,
+  "local_roms_with_achievements": 192,
+  "rule": "RA hash = MD5 of the complete file; exact hash equality only",
+  "local_games_by_source": {
+    "nointro": 49,
+    "nointro,retroachievements": 110,
+    "retroachievements": 6
+  },
+  "retroachievements_collections": {
+    "RA - Sega Game Gear": {
+      "in_nointro_dat": 118,
+      "ra_only": 22
+    }
+  },
+  "collection_files_with_unknown_ra_hash": 0,
+  "missing_by_category": {
+    "Hack/Demo": 1,
+    "Homebrew": 1
+  }
+}
